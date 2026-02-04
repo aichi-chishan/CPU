@@ -1,4 +1,4 @@
-module pc_reg(
+module pc_reg( //IF
     input wire clk,
     input wire rst_n,
     output reg [31:0] pc_out
