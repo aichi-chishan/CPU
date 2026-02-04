@@ -1,4 +1,5 @@
-module PC( //IF
+//程序计数器 IF
+module PC( 
     input wire clk,
     input wire rst_n,
     output reg [31:0] pc_out

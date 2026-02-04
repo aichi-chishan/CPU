@@ -1,4 +1,4 @@
-//control unit 控制单元
+//control unit 控制单元 ID
 module CU(
     input  wire [6:0] opcode,  // 指令[6:0]
     input  wire [2:0] funct3,  // 指令[14:12]

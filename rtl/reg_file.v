@@ -1,3 +1,4 @@
+//寄存器堆 ID
 module reg_file (
     input  wire clk,
     input  wire we,            // 写使能 (Write Enable)

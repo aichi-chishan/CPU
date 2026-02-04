@@ -1,4 +1,4 @@
-//ALU
+//ALU EX
 module ALU (
     input  wire [31:0] src_a,   // 操作数 A
     input  wire [31:0] src_b,   // 操作数 B

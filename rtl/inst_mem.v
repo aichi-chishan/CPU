@@ -1,3 +1,4 @@
+//指令存储器 IF
 module inst_mem( //ID
     input wire [31:0] addr,//from PC
     output wire [31:0] instr //32位机器码
