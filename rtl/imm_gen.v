@@ -1,5 +1,5 @@
 //Immediate Generator 立即数生成器,扩展功能 ID
-modele imm_gen (
+module imm_gen (
     input wire [31:0] instr //Instruction 指令
     output wire [31:0] imm_out
 );

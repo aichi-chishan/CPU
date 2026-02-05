@@ -31,7 +31,7 @@ module CU(
                     end
                 endcase
             //I型
-            7'0010011：begin
+            7'0010011:begin
                 case(funct3)
                 //ADDI
                     7'b000: begin
