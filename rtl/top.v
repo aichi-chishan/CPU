@@ -2,7 +2,7 @@
 module top(
     input wire clk,
     input wire rst_n
-)
+);
 
     // ====================================================
     // 1. 定义内部连接导线 (Wires)
