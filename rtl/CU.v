@@ -28,6 +28,7 @@ module CU(
                                 alu_ctrl = 4'b0001;
                             end
                         endcase
+                    end
                 endcase
             //I型
             7'0010011：begin
